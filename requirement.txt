@@ -1,0 +1,8 @@
+ REQUIREMENT THAT NEED TO USE THE PROGRAM
+
+
+
+opencv-python
+mediapipe
+numpy
+pyautogui
