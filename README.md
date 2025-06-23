@@ -27,5 +27,5 @@ A Python application by **Sriram** that allows you to control your computer mous
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/sriram/hand-gesture-mouse.git
-   cd hand-gesture-mouse
+https://github.com/cybersriram7/mouse-handgesture.git
+cd mouse-handgesture
