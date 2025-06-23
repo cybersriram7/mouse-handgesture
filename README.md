@@ -25,7 +25,5 @@ A Python application by **Sriram** that allows you to control your computer mous
 - Python packages: OpenCV, MediaPipe, PyAutoGUI
 
 ### Setup
-1. Clone this repository:
-   ```bash
-https://github.com/cybersriram7/mouse-handgesture.git
-cd mouse-handgesture
+1. Clone this repository: https://github.com/cybersriram7/mouse-handgesture.git
+cd mouse-gesture
